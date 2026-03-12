@@ -1,0 +1,14 @@
+iniciar-programa
+
+define-nueva-instruccion gira-derecha como
+       inicio
+       		 gira-izquierda;
+    	     gira-izquierda;
+           gira-izquierda;
+        fin;
+        
+     inicia-ejecucion
+        gira-derecha;
+        apagate;
+    termina-ejecucion
+finalizar-programa
